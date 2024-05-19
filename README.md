@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prajwal Deshmukh.
-- 📫 prajwal.deshmukh@data-axle.com | +91 7822957411
+- 📫 prajwal.deshmukh@data-axle.com
 
 <!---
 prajwaldax/prajwaldax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
